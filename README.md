@@ -1,2 +1,2 @@
 # Management-Studio-Linux
-<p>Not needed a readme file, just run a program</p>
+<p>Not needed a readme file, just run a program. Why ? beacuse this project as experimental</p>
